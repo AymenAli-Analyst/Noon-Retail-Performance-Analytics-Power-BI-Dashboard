@@ -32,7 +32,8 @@ This dashboard solves these challenges by providing interactive and data-driven 
 
 ### Main Dashboard
 
-![Dashboard Screenshot](<D:\aymen_projecut\PRO16\noon2.png/>
+![Dashboard Screenshot](<img width="1182" height="811" alt="image" src="https://github.com/user-attachments/assets/17236dde-a52c-4a20-b83d-216a4428f31a" />
+
 )
 
 ---
